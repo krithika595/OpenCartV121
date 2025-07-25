@@ -1,0 +1,412 @@
+2025-07-23 17:48:31 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 17:49:45 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 17:49:57 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 17:49:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 17:49:58 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 17:49:58 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 17:49:59 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 17:49:59 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 17:50:10 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-23 17:50:12 INFO  TC002_LoginTest:39 - ***** Finished TC_002_LoginTest *****
+2025-07-23 17:52:33 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 17:52:47 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 17:52:47 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 17:52:48 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 17:52:48 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 17:52:50 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 17:52:50 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 17:52:53 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-23 17:52:54 INFO  TC002_LoginTest:39 - ***** Finished TC_002_LoginTest *****
+2025-07-23 17:54:05 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 17:54:09 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 17:54:09 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 17:54:09 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 17:54:09 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 17:54:11 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 17:54:11 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 17:54:24 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-23 17:54:26 INFO  TC002_LoginTest:39 - ***** Finished TC_002_LoginTest *****
+2025-07-23 17:55:13 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 17:55:16 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 17:55:16 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 17:55:17 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 17:55:17 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 17:55:19 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 17:55:19 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 17:55:21 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-23 17:55:23 INFO  TC002_LoginTest:39 - ***** Finished TC_002_LoginTest *****
+2025-07-23 18:00:17 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 18:00:42 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 18:00:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 18:00:43 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 18:00:43 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 18:00:45 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 18:00:45 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 18:00:57 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-23 18:00:59 INFO  TC002_LoginTest:39 - ***** Finished TC_002_LoginTest *****
+2025-07-23 19:16:41 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:16:41 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:16:41 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:17:07 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:17:07 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:17:08 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:17:08 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:17:10 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:17:10 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:18:29 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:18:30 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:18:30 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:19:54 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:19:54 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:19:54 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:20:11 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:20:11 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:20:11 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:20:11 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:20:21 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:20:31 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:22:19 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:23:34 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:23:52 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:23:52 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:23:53 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:23:53 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:24:03 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:24:13 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:26:01 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:26:21 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:26:21 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:26:21 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:26:21 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:26:31 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:26:41 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:27:17 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:27:30 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:27:30 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:27:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:27:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:27:40 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:27:50 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:28:39 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\master.xml
+
+2025-07-23 19:28:51 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:28:51 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:28:52 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:28:52 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:28:54 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:28:54 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:29:13 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-23 19:29:15 INFO  TC002_LoginTest:39 - ***** Finished TC_002_LoginTest *****
+2025-07-23 19:30:24 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:30:36 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:30:36 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:30:36 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:30:36 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:30:46 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:30:56 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 19:33:33 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:33:33 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:33:33 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:33:34 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:33:36 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:33:36 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:33:36 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:33:36 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:33:39 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:33:39 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:33:39 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:33:39 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:46:31 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:46:41 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:46:41 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:46:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:46:43 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:46:43 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:46:43 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:46:43 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:46:43 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:46:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:46:44 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:46:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:46:44 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:46:46 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:46:46 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:46:46 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:46:46 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:46:47 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:47:52 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:48:01 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:48:01 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:48:01 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:48:02 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:48:03 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:48:03 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:48:03 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:48:03 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:48:04 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:48:05 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:48:05 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:48:05 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:48:09 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:48:09 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:48:11 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:48:11 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:48:13 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:48:13 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:48:26 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:48:39 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:48:39 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:48:40 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:48:40 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:48:40 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:48:41 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:48:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:48:41 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:48:42 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:48:42 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:48:42 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:48:42 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:48:43 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:48:43 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:48:44 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:48:44 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:48:45 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:48:45 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:49:27 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:49:38 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:49:39 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:49:39 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:49:39 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:49:39 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:49:39 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:49:40 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:49:40 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:49:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:49:41 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:49:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:49:41 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:49:43 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:49:43 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:49:43 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:49:44 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:49:44 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:49:44 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-23 19:50:16 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 19:50:21 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:50:21 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:50:23 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:50:23 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:50:26 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:50:26 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:50:26 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:50:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:50:27 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:50:29 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 19:50:38 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 19:50:38 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 19:50:40 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 19:50:40 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 19:50:41 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:10:44 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 20:10:55 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:10:55 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:10:55 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:10:55 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:10:55 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:10:55 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:10:56 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:10:56 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:10:56 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 20:10:56 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 20:10:58 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-23 20:11:41 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 20:11:45 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:11:45 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:11:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:11:47 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:11:49 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:11:49 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:11:49 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:11:49 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:11:52 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:11:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:11:53 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:11:53 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:11:53 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:11:56 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:11:56 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:15:15 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 20:15:20 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:15:21 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:15:22 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:15:22 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:15:22 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:15:23 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:15:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:15:27 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:15:27 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:15:28 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:15:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:15:28 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:15:30 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:15:30 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:15:30 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:19:04 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 20:19:08 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:19:09 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:19:10 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:19:10 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:19:11 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:19:17 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:19:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:19:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:19:19 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:19:21 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:22:07 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\OpenCartV121\crossbrowsertesting.xml
+
+2025-07-23 20:22:18 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:22:18 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:22:19 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:22:19 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:22:20 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:22:20 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:22:20 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-23 20:22:21 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-23 20:22:21 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:22:21 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:22:22 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-23 20:22:22 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-23 20:22:22 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:22:24 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-23 20:22:24 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:09:46 INFO  Utils:112 - [TestNG] Running:
+  D:\PawanQA\OpenCartV121\grid-docker.xml
+
+2025-07-25 16:10:15 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 16:10:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 16:10:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 16:10:19 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 16:10:24 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:10:25 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 16:10:30 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 16:12:05 INFO  Utils:112 - [TestNG] Running:
+  D:\PawanQA\OpenCartV121\grid-docker.xml
+
+2025-07-25 16:14:55 INFO  Utils:112 - [TestNG] Running:
+  D:\PawanQA\OpenCartV121\grid-docker.xml
+
+2025-07-25 16:15:04 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 16:15:04 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 16:15:06 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 16:15:06 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 16:15:11 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:15:11 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 16:15:17 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 16:22:10 INFO  Utils:112 - [TestNG] Running:
+  D:\PawanQA\OpenCartV121\grid-docker.xml
+
+2025-07-25 16:22:17 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 16:22:18 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 16:22:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 16:22:19 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 16:22:23 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:22:24 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 16:22:28 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 16:23:31 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 16:23:33 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 16:23:35 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 16:23:35 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 16:23:39 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:23:39 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 16:23:56 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 16:57:10 INFO  Utils:112 - [TestNG] Running:
+  D:\PawanQA\OpenCartV121\grid-docker.xml
+
+2025-07-25 16:57:27 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 16:57:28 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 16:57:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 16:57:31 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 16:57:36 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:57:36 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 16:57:41 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 16:58:43 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 16:58:44 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 16:58:46 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 16:58:46 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 16:58:50 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 16:58:50 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 16:59:11 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 18:46:29 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 18:46:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 18:46:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 18:46:31 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 18:46:35 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 18:46:35 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 18:46:42 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 18:51:11 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 18:51:12 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 18:51:13 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 18:51:13 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 18:51:15 ERROR TC001_AccountRegistrationTest:44 - Test failed..
+2025-07-25 18:55:42 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 18:55:43 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 18:55:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 18:55:44 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 18:55:50 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 18:55:50 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 18:55:56 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
+2025-07-25 18:59:56 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest *****
+2025-07-25 18:59:58 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link
+2025-07-25 18:59:59 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link
+2025-07-25 18:59:59 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2025-07-25 19:00:09 INFO  TC001_AccountRegistrationTest:40 - Validating expected message
+2025-07-25 19:00:09 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-25 19:00:15 INFO  TC002_LoginTest:15 - ***** Starting TC_002_LoginTest *****
